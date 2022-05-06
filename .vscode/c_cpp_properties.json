@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            
+            "includePath": [
+                "${localappdata}\\Arduino15\\packages\\arduino\\hardware\\avr\\**",
+                "${localappdata}\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\libraries\\**",
+                "${workspaceFolder}/**"
+            ],
+            "forcedInclude": [
+                "${localappdata}\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino\\Arduino.h"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
